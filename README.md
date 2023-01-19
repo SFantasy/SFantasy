@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=sfantasy&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
+[![SFantasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFantasy)](https://github.com/SFantasy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFantasy)](https://github.com/SFantasy)
