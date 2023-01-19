@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=sfantasy&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
