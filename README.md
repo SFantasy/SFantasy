@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🧐 Current collecting [AI Era](https://github.com/stars/SFantasy/lists/ai-era) list
-- 🧱 Current living and working at Hangzhou, China.
+- 🧐 Current learning [AI](https://github.com/stars/SFantasy/lists/ai-era) 
+- 🧱 Current living and working at Hangzhou, China
 
 [![SFantasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFantasy)](https://github.com/SFantasy)
 
